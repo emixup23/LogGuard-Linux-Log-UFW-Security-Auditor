@@ -1,0 +1,6 @@
+{
+  "name": "LogGuard – Linux Log & UFW Security Auditor",
+  "description": "Analyze Linux authentication logs, syslog, and UFW firewall events with AI. Detect brute-force SSH, port scanning, and suspicious source IPs, and generate ready-to-run UFW/Fail2ban hardening rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
